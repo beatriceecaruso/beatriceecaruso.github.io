@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url(file:///C:/Users/Betsy/Desktop/workspace/portfolio/draft2/background3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #49525f;
+}
+
+.container-fluid {
+  font-family: Roboto Slab;
+  color: white;
+  padding-top: 40px;
+}
+
+.btn-sm {
+  border-radius: 0px;
+}
+
+.navigation {
+  padding-bottom: 120px;
+}
+
+.navigation > a {
+  color: #eaedf1;
+  font-family: Roboto;
+  display: inline;
+}
+
+p {
+  padding-top: 20px;
+}
